@@ -2,7 +2,7 @@
 
 Welcome to my repository! This project tracks my progress as I learn Python with a focus on transitioning into Cloud Security Engineering.
 
-## What's does it contain?
+## What does it contain?
 - **Class Assignments:** Foundational Python exercises (loops, logic, functions).
 - **Security Scripts:** Automation tools, cloud log parsers, and AWS configuration audits.
 
