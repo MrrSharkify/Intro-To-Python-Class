@@ -1,11 +1,11 @@
 # Intro to Python & Cloud Security Journey
 
-Welcome to my repository! This project tracks my progress as I learn Python with a focus on transitioning into **Cloud Security Engineering**.
+Welcome to my repository! This project tracks my progress as I learn Python with a focus on transitioning into Cloud Security Engineering.
 
-## 🚀 What's Inside
+## What's does it contain?
 - **Class Assignments:** Foundational Python exercises (loops, logic, functions).
 - **Security Scripts:** Automation tools, cloud log parsers, and AWS configuration audits.
 
-## 🛠️ Tools Used
+## What Tools Did I Use?
 - **Language:** Python
 - **IDE:** PyCharm Community Edition
