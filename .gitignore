@@ -1,0 +1,13 @@
+# PyCharm internal settings
+.idea/
+
+# Python environment and cache files
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Security: Never upload secret keys or credentials
+.env
+*.pem
+credentials.json
