@@ -1,6 +1,6 @@
 # Intro to Python & Cloud Security Journey
 
-Welcome to my repository! This project tracks my progress as I learn Python with a focus on transitioning into Cloud Security Engineering.
+Welcome to my repository! This project tracks my progress as I learn Python with a focus on learning Cloud Security Engineering.
 
 ## What does it contain?
 - **Class Assignments:** Foundational Python exercises (loops, logic, functions).
