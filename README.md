@@ -9,3 +9,5 @@ Welcome to my repository! This project tracks my progress as I learn Python with
 ## What Tools Did I Use?
 - **Language:** Python
 - **IDE:** PyCharm Community Edition
+
+**Note:** My GitHub is currently being overhauled, check back soon to see my projects!
